@@ -194,4 +194,16 @@ body{
     .profile-status {
       font-size: 0.75rem;
     }
+    .item-5 .testimonial-body{
+      font-size: 20px;
+    }
+    .item-1 .testimonial-body{
+      font-size: 20px;
+    }
+    .item-2 .testimonial-body {
+      font-size: 20px;
+    }
+    .item-3 .testimonial-body {
+      font-size: 20px;
+    }
 }
